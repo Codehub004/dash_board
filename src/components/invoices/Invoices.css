@@ -1,0 +1,47 @@
+.invoice{
+    flex: 1;
+    padding: 10px;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    background-color: white;
+    border-radius: 10px;
+    height: 250px;
+    
+   }
+
+   
+   .button{
+    background-color: rgb(229, 241, 249);
+    border: none;
+    margin-left: 20px;
+    width: 110px;
+    height: 25px;
+    border-radius: 4px;
+    color: rgb(75, 192, 48);
+    font-size: 10px;
+    font-weight: bold;
+   }
+
+
+
+ .top{
+    display: flex;
+   
+ }
+
+ .invoiceright{
+    margin-right: 10px;
+    margin-bottom: 4px;
+   }
+
+   .invoiceleft{
+    margin-right: 200px;
+    margin-bottom: 4px;
+   }
+
+.hello2{
+   height: 0;
+   border: 0.5px solid rgb(222, 221, 221);
+   margin-top: -4px;
+   
+}

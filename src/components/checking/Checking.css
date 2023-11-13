@@ -1,0 +1,46 @@
+.checking{
+  flex: 1;
+  padding: 10px;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  background-color: white;
+  border-radius: 10px;
+  height: 250px;
+  
+ }
+ 
+ .top{
+    display: flex;
+   
+ }
+
+.checkingright{
+ margin-right: 10px;
+ margin-bottom: 4px;
+}
+
+.checkingleft{
+ margin-right: 200px;
+ margin-bottom: 4px;
+}
+
+.manage{
+    margin-right: 10px;
+    height: 24px;
+    border-color: lightgray;
+    border-radius: 4px;
+}
+
+.january{
+    height: 24px;
+    border-color: lightgray;
+    border-radius: 4px;
+}
+
+
+.hello1{
+    height: 0;
+    border: 0.5px solid rgb(222, 221, 221);
+    margin-top: -4px;
+    
+}

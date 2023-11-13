@@ -1,0 +1,116 @@
+.account{
+    flex: 1;
+    padding: 10px;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    background-color: white;
+    border-radius: 10px;
+    height: 250px;
+    
+   }
+
+   .top1{
+ 
+    display: flex;
+  
+    
+   }
+
+  .logo1{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  
+.center1{
+    display: flex;
+    padding-left: 6px;
+    font-size: 12px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px;
+   
+}
+
+
+.left2{
+  margin-right: 10px;
+  margin-left: 5px;
+  margin-right: 60px;
+
+}
+
+.item2{
+   padding-left: 0px;
+  
+}
+
+   .logo2{
+    font-size: 15px;
+    color: rgb(169, 166, 166);
+  
+   
+}
+
+
+
+.product1{
+    list-style: none;
+    margin: 10px;
+    margin-left: 0px;
+    font-weight: bold;
+}
+
+.middle{
+margin-left: 45px;
+}
+
+.item3{
+    
+}
+
+.logo3{
+    font-size: 15px;
+    color: rgb(169, 166, 166);
+  
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.product2{
+    list-style: none;
+    padding: 0px;
+    margin: 10px;
+    /* margin-right: 10px; */
+    font-weight: bold;
+}
+
+.last{
+
+}
+
+.logo4{
+    font-size: 15px;
+    color: rgb(169, 166, 166);
+  
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.product3{
+    list-style: none;
+    padding: 0px;
+    margin: 10px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.hello4{
+    height: 0;
+    border: 0.5px solid lightgrey;
+    margin-top: -6px;
+    
+}
